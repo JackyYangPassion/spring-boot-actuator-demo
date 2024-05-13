@@ -35,6 +35,7 @@ All the actuator endpoints will be available at <http://localhost:8080/actuator>
 Some of the actuator endpoints are protected with Spring Security's HTTP Basic Authentication. You can use the username `actuator` and password `actuator` for http basic authentication.
 
 
+ADD dropwizard 框架指标采集输出
 
 # TODO
-1. 基于这个框架定制化指标 比如：某个模块 方法调用的 QPS/P99等
+1. 基于这个框架定制化指标 比如：某个模块 方法调用的 QPS/P99
